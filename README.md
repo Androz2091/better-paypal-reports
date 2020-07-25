@@ -1,6 +1,6 @@
 # Better PayPal Reports
 
-👨‍🔬Lis les rapports XLSX PayPal et affiche des informations utiles
+👨‍🔬Lit les rapports XLSX PayPal et affiche des informations utiles
 
 ## Installation
 

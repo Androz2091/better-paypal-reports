@@ -1,0 +1,15 @@
+{
+  "name": "better-paypal-reports",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Androz2091 <androz2091@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node-xlsx": "^0.15.0",
+    "@types/yargs": "^15.0.5",
+    "chalk": "^4.1.0",
+    "node-xlsx": "^0.15.0",
+    "read-excel-file": "^4.0.6",
+    "yargs": "^15.4.1"
+  }
+}

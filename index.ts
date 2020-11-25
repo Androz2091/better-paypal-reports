@@ -30,9 +30,9 @@ const data = rows.map((e) => {
         item: e[1],
         client: e[2],
         status: e[3],
-        price: USDToEuro(parseInt(e[4].split(' ')[0], 10)),
+        price: USDToEuro(parseInt((e[4] as string).split(' ')[0], 10)),
         sold: e[5],
-        date: e[6]
+        date: e[6] as Date
     };
 });
 
